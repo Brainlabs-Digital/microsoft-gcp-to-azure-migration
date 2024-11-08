@@ -1,0 +1,24 @@
+version: v1.1
+name: azure-migration-poc
+description: Azure Migration POC
+status: building
+docs: https://docs.google.com/document/d/13FJr-G4tjQfTmMKOSEzOJc9-aOagmjcCVTVN6i8Duqg/edit?usp=sharing
+business-owner: ellen
+uses-sensitive-data: false
+meta:
+  ignore: false
+technical-owner: raehankhanbli
+maintainers:
+  - raehankhanbli
+  - shrutibrainlabs
+team: data_science
+apis:
+  - 
+public-info:
+  reach: general-client-tool
+  platforms:
+    - azure
+deployments:
+  - type: azure
+    project-name: azure-migration-poc
+    budget: 100
