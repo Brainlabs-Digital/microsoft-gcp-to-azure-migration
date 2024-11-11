@@ -3,7 +3,7 @@ name: azure-migration-poc
 description: Azure Migration POC
 status: building
 docs: https://docs.google.com/document/d/13FJr-G4tjQfTmMKOSEzOJc9-aOagmjcCVTVN6i8Duqg/edit?usp=sharing
-business-owner: ellen
+business-owner: martakebede
 uses-sensitive-data: false
 meta:
   ignore: false
@@ -11,6 +11,7 @@ technical-owner: raehankhanbli
 maintainers:
   - raehankhanbli
   - shrutibrainlabs
+  - martakebede
 team: data_science
 apis:
   - 
